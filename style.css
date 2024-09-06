@@ -1,0 +1,20 @@
+*{
+   
+background-image: url('https://static.vecteezy.com/system/resources/previews/010/538/537/non_2x/map-world-seperate-countries-blue-background-with-outline-free-photo.jpg');
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+}
+.list-group-item{
+    color: white;
+}
+#inputvalue{
+    color: white;
+}
+#inputvalue::placeholder{
+    color: white;
+}
+#span{
+    text-transform: uppercase;
+}
